@@ -1,11 +1,18 @@
 <?php
 	session_start();
 
-	// Define database
-	define('dbhost', 'localhost');
-	define('dbuser', 'root');
-	define('dbpass', '');
-	define('dbname', 'newrent');
+	// Define localhost database
+	// define('dbhost', 'localhost');
+	// define('dbuser', 'root');
+	// define('dbpass', '');
+	// define('dbname', 'newrent');
+
+	//define remote database
+	 
+	define('dbhost', 'remotemysql.com');
+	define('dbuser', 'WbCq4PE5nT');
+	define('dbpass', 'yNNupchDR3');
+	define('dbname', 'WbCq4PE5nT');
 
 	// Connecting database
 	try {
