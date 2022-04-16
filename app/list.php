@@ -103,8 +103,8 @@
 												// echo '<p><b>Country: </b>'.$value['country'].'<b> State: </b>'.$value['state'].'<b> City: </b>'.$value['city'].'</p>';
 												echo '<p><b>Plot Number: </b>'.$value['plot_number'].'</p>';
 
-												if(isset($value['sale'])){
-													echo '<p><b>Sale: </b>'.$value['sale'].'</p>';
+												if(isset($value['rent'])){
+													echo '<p><b>Rent: </b>'.$value['rent'].'</p>';
 												}										
 												
 													if(isset($value['apartment_name']))
