@@ -196,7 +196,7 @@
 	<!-- Nav tabs -->
 	<ul class="nav nav-tabs" role="tablist">
 	  <li class="nav-item">
-	    <a class="nav-link active" data-toggle="tab" href="#home" role="tab">Individual Home Registration</a>
+	    <a class="nav-link active" data-toggle="tab" href="#home" role="tab">Room Registration</a>
 	  </li>
 	 <!-- <li class="nav-item">
 	    <a class="nav-link" data-toggle="tab" href="#profile" role="tab">Apartment Registration</a>
