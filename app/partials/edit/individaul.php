@@ -87,8 +87,8 @@
 
 			  <div class="col-md-2">
 			 <div class="form-group">
-			    <label for="sale">Sale</label>
-			    <input type="sale" class="form-control" id="sale" placeholder="Sale" name="sale" value="<?php echo $data['sale']?$data['sale']:''; ?>">
+			    <label for="sale">Negotiate Rent</label>
+			    <input type="sale" class="form-control" id="sale" placeholder="Negotiate Rent" name="sale" value="<?php echo $data['sale']?$data['sale']:''; ?>">
 			  </div>
 			  </div>
 
