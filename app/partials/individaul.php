@@ -84,12 +84,12 @@
 			  </div>
 			  </div>
 
-			  <div class="col-md-2">
+<!-- 			  <div class="col-md-2">
 			 <div class="form-group">
 			    <label for="sale">Sale</label>
 			    <input type="sale" class="form-control" id="sale" placeholder="Sale" name="sale">
 			  </div>
-			  </div>
+			  </div> -->
 
 			  <div class="col-md-4">
 			  <div class="form-group">
